@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Números Primos 2.0", "Números Primos 2.0.vcxproj", "{24196BBD-FDCC-491B-8660-472F2E7DA811}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "numPri_Setup", "..\numPri_Setup\numPri_Setup.vdproj", "{4C88D26A-9899-41DB-BFE1-446AB964651A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24196BBD-FDCC-491B-8660-472F2E7DA811}.Debug|x64.ActiveCfg = Debug|x64
+		{24196BBD-FDCC-491B-8660-472F2E7DA811}.Debug|x64.Build.0 = Debug|x64
+		{24196BBD-FDCC-491B-8660-472F2E7DA811}.Debug|x86.ActiveCfg = Debug|Win32
+		{24196BBD-FDCC-491B-8660-472F2E7DA811}.Debug|x86.Build.0 = Debug|Win32
+		{24196BBD-FDCC-491B-8660-472F2E7DA811}.Release|x64.ActiveCfg = Release|x64
+		{24196BBD-FDCC-491B-8660-472F2E7DA811}.Release|x64.Build.0 = Release|x64
+		{24196BBD-FDCC-491B-8660-472F2E7DA811}.Release|x86.ActiveCfg = Release|Win32
+		{24196BBD-FDCC-491B-8660-472F2E7DA811}.Release|x86.Build.0 = Release|Win32
+		{4C88D26A-9899-41DB-BFE1-446AB964651A}.Debug|x64.ActiveCfg = Debug
+		{4C88D26A-9899-41DB-BFE1-446AB964651A}.Debug|x86.ActiveCfg = Debug
+		{4C88D26A-9899-41DB-BFE1-446AB964651A}.Release|x64.ActiveCfg = Release
+		{4C88D26A-9899-41DB-BFE1-446AB964651A}.Release|x64.Build.0 = Release
+		{4C88D26A-9899-41DB-BFE1-446AB964651A}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFD469A8-AEEA-4975-B0D2-F4EA3F122458}
+	EndGlobalSection
+EndGlobal

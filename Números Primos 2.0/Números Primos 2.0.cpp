@@ -2,7 +2,6 @@
 //
 
 #include <iostream>
-#include <cmath>
 #include <chrono>
 
 using namespace std;
@@ -46,8 +45,8 @@ int main()
 			const auto end{std::chrono::steady_clock::now()};
 			const chrono::duration<double> elapsed_seconds{end - start};
 
-			cout << "\nTiempo de ejecución: " << elapsed_seconds.count() << "s";
-			cout << "\n¿Quieres volver a ejecutar el programa? (0/1) ";
+			cout << "\n\nTiempo de ejecución: " << elapsed_seconds.count() << "s";
+			cout << "\n\n\t¿Quieres volver a ejecutar el programa? (0/1) ";
 			cin >> isPrime;
 
 		}

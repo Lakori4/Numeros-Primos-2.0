@@ -97,6 +97,7 @@ StyleCopReport.xml
 *.pidb
 *.svclog
 *.scc
+*.exe
 
 # Chutzpah Test files
 _Chutzpah*
@@ -361,3 +362,4 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+Números Primos 2.0/Números Primos 2.0.exe
